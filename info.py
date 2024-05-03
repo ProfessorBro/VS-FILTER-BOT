@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Telugu_Movies_999
+# Subscribe YouTube Channel For Amazing Bot @arya_bro_44
+# Ask Doubt on telegram @arya_Bro
 
 
 import re
@@ -111,9 +111,9 @@ EPISODES = ["E01", "E02", "E03", "E04", "E05", "E06", "E07", "E08", "E09", "E10"
 QUALITIES = ["360p", "480p", "720p", "1080p", "1440p", "2160p"]
 
 
-                           # Don't Remove Credit @VJ_Botz
-                           # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @KingVJ01
+                           # Don't Remove Credit @Telugu_Movies_999
+                           # Subscribe YouTube Channel For Amazing Bot @arya_bro_44
+                           # Ask Doubt on telegram @Arya_Bro
 
 
 # Online Stream and Download
