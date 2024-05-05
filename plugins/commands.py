@@ -39,7 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('🫰Database Channel', url="https://t.me/+-duU_vRUZzswZDY1"),
+            InlineKeyboardButton('🫰Database Channel', url="https://t.me/+VX8R2-7yWixkMDZl"),
             InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/Telugu_Movies_999')
         ],[
             InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
@@ -61,7 +61,7 @@ async def start(client, message):
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
@@ -75,7 +75,7 @@ async def start(client, message):
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
@@ -130,7 +130,7 @@ async def start(client, message):
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
@@ -144,7 +144,7 @@ async def start(client, message):
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
@@ -185,7 +185,7 @@ async def start(client, message):
                     InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
@@ -199,7 +199,7 @@ async def start(client, message):
                     InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
                 InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+-duU_vRUZzswZDY1')
+                InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
             ],[
                 InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
