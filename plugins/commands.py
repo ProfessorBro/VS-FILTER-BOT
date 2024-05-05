@@ -60,10 +60,8 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
@@ -74,10 +72,8 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
@@ -129,10 +125,8 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
@@ -143,10 +137,8 @@ async def start(client, message):
             buttons = [[
                 InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
@@ -184,10 +176,8 @@ async def start(client, message):
                 buttons = [[
                     InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
@@ -198,10 +188,8 @@ async def start(client, message):
                 buttons = [[
                     InlineKeyboardButton('✌ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ✌', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
+                InlineKeyboardButton('Deals 😃', url='https://t.me/Vs_Best_Deals'),
                 InlineKeyboardButton('🫰Database Channel', url='https://t.me/+VX8R2-7yWixkMDZl')
-            ],[
-                InlineKeyboardButton('🤞 Hᴇʟᴘ', callback_data='help')
             ],[
                 InlineKeyboardButton('❤️‍🔥 ɢᴇᴛ ғʀᴇᴇ/ᴘᴀɪᴅ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ❤️‍🔥', callback_data='subscription')
             ],[
