@@ -18,8 +18,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', '25262754'))
-API_HASH = environ.get('API_HASH', 'c3cc61710738293edbc6a529583bcc4a')
+API_ID = int(environ.get('API_ID', '18046134'))
+API_HASH = environ.get('API_HASH', 'ba903a5c9d50a7daa3a68371a111a95c')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
@@ -30,14 +30,14 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/vs_Files_Mx_player")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002091553156'))
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7179779107').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002073312945').split()]
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002103937615'))
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7179779107 5753896311').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002057092896').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 
 # auth_channel means force subscribe channel.
-auth_channel = environ.get('AUTH_CHANNEL', '-1002093919051') # give your force subscribe channel id here else leave it blank
+auth_channel = environ.get('AUTH_CHANNEL', '-1001804946256') # give your force subscribe channel id here else leave it blank
 auth_grp = environ.get('AUTH_GROUP', '') # give your force subscribe group id here else leave it blank
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -50,7 +50,8 @@ FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://bestanimeandcartoonsclips:6ChCTALD96W7qkps@cluster0.dt9r1rc.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://jagadheeshpinninti:t418TRHEEufgWswZ@cluster0.yjjra8g.mongodb.net/?retryWrites=true&w=majority
+")
 DATABASE_NAME = environ.get('DATABASE_NAME', "AryaBro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'techvjcollection')
 
@@ -65,8 +66,8 @@ PAYMENT_TEXT = environ.get('PAYMENT_TEXT', '<b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟ�
 OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Arya_bro') # owner username without @
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+VX8R2-7yWixkMDZl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/vs_Files_Mx_player')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nRRA8I9puXJiMTM1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+VoUZxgZBb5EwNTc1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/vs_Files_Mx_player/135')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/vs_Files_Mx_player/135')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'arya_bro_bot') # Support Chat Link Without https:// or @
@@ -93,7 +94,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 
 # Shortlink Info
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '0b849c4c90c6a9c3820fdc4dcb14df7a27583112')
+SHORTLINK_API = environ.get('SHORTLINK_API', '410924dd8637d7f9d7e8c881c0d6031b440a58ee')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
