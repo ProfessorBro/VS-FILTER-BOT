@@ -70,7 +70,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nRRA8I9puXJiMTM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+VoUZxgZBb5EwNTc1')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Horror_Films_4u/9')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/Horror_Films_4u/9')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'arya_bro_bot') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Jd_owner_bot') # Support Chat Link Without https:// or @
 
 # True Or False
 PM_SEARCH = bool(environ.get('PM_SEARCH', True)) # In Pm Search Currently Spell Check Doesn't Work.
