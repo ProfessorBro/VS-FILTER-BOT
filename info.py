@@ -24,7 +24,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/0bbd5f39c03f2a168326f.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://envs.sh/yrB.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "")
 MELCOW_VID = environ.get("MELCOW_VID", "")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
@@ -50,9 +50,9 @@ FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://animefrnd44:Ig0kIRF69y9IVXrJ@cluster0.fagqdot.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "AryaBro")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'techvjcollection')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Professor:Professor@cluster0.avsye.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "professorJD")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ProfessorJD')
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', True)) # Set Ture Or False
@@ -67,8 +67,8 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'Jd_owner_bot') # owner username 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+nRRA8I9puXJiMTM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+VoUZxgZBb5EwNTc1')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Horror_Films_4u/9')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/Horror_Films_4u/9')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/JD_BACK_UP')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/JD_BACK_UP')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Jd_owner_bot') # Support Chat Link Without https:// or @
 
 # True Or False
